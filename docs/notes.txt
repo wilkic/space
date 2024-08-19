@@ -1,0 +1,27 @@
+Cislunar Tether Transport
+https://arc.aiaa.org/doi/10.2514/2.3564
+
+Maximizing Payload Somethinig...
+https://arc.aiaa.org/doi/10.2514/1.17433
+
+Lunar Propellants
+https://arc.aiaa.org/action/doSearch?AllField=lunar+derived+%22propellants%22+for+cislunar+and+interplanetary+missions&startPage=&SeriesKey=jsr
+
+power point - NTR (nasa glenn)
+https://ntrs.nasa.gov/api/citations/20180000364/downloads/20180000364.pdf
+
+A Cis-Lunar Propellant Infrastructure for Flexible Path Exploration and Space Commerce
+https://ntrs.nasa.gov/api/citations/20120008515/downloads/20120008515.pdf
+"delivering lunar-launched propellants to LEO will be more than 5 to 6 times more efficient than delivering Earth-launched propellants to LEO"
+ - page 14, table 3
+
+OVERVIEW OF THE LUNAR TRANSFER TRAJECTORY OF THE CO-MANIFESTED FIRST ELEMENTS OF NASA’S GATEWAY
+https://ntrs.nasa.gov/api/citations/20210019116/downloads/AAS_McGuire_LunarTransferTraj_v8.pdf
+
+
+From Bard, do these actually exist ?
+[1] Smith, J. D., et al. (20XX). Lunar-Derived Propellants for Cislunar and Interplanetary Missions. Journal of Spacecraft and Rockets, 42(3), 420-432.
+[2] Jones, A., & Wang, L. (20XX). Delta-V Savings in Lunar-to-GEO Transfers Using Lunar-Derived Propellants. AIAA Space Conference Proceedings.
+[3] Chang, Y., et al. (20XX). Performance Analysis of Solar Electric Propulsion for Lunar Transportation. Journal of Propulsion and Power, 35(2), 250-263.
+[4] Smith, J. D., & Gupta, S. (20XX). Economic Analysis of Lunar-Based Transportation for GEO Missions. Space Policy, 28(4), 320-332.
+
